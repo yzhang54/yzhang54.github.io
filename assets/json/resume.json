@@ -1,7 +1,7 @@
 {
   "work": [
     {
-      "name": "George Mason University, SEAR Lab",
+      "name": "George Mason University, Dr.Wing Lam's lab",
       "position": "Undergraduate Research Assistant",
       "url": "https://cs.gmu.edu/~winglam/lab/",
       "startDate": "06/2023",
@@ -30,7 +30,7 @@
     },
     {
       "name": "George Mason University, CS Department",
-      "position": "Computer Science Undergraduate Teaching Assistant",
+      "position": "Undergraduate Teaching Assistant",
       "url": "https://cs.gmu.edu/",
       "startDate": "01/2021",
       "endDate": "12/2021"
@@ -41,8 +41,9 @@
     {
       "institution": "George Mason University",
       "url": "https://www.gmu.edu/",
-      "area": "Computer Science, Minor in Software Development",
+      "area": "Computer Science, Minor in Software Engineering",
       "studyType": "Bachelor of Science",
+      "startDate":"",
       "endDate": "2022"
     }
   ],
