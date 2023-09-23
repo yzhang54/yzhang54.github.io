@@ -10,7 +10,24 @@ layout: default
           </h1>
           <p class="desc">{{ page.subtitleOne }}</p>
           <p class="desc">{{ page.subtitleTwo }}</p>
-          <p class="desc">{{ page.subtitleThree }}</p>
+
+        <!-- Social -->
+        {%- if page.social %}
+          <span class="social">
+            {% include social.html %}
+            <!-- <div class="fa-brands fa-linkedin-in" >
+              {% include social.html %}
+            </div>
+            <div class="contact-icons" >
+              {% include social.html %}
+            </div>
+            <div class="github-icon">
+              {% include social.html %}
+            </div> -->
+
+          </span>
+        {%- endif %}
+
         </header>
 
         <article>
@@ -61,25 +78,6 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-         
-              <div class="fa-brands fa-linkedin-in" >
-                {{site.linkedin-icon}}
-              </div>
-              <div class="contact-icons" >
-                {% include social.html %}
-              </div>
-              <div class="contact_note">
-                {{ site.contact_note }}
-              </div>
-              <div class="github-icon">
-                {% include social.html %}
-              </div>
-
-            </div>
-          {%- endif %}
         </article>
 
 </div>
