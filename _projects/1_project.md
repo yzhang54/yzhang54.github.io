@@ -9,7 +9,7 @@ related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 
-This project is a database that holds historical files, testimonials, and images dated back to the mid 1950's. The Archive allows the public to search, learn, and explore a collection of over 40,000 data points, and growing, of "Rightist" victims and history from the 1957-1959 "Rightist" Movement in China.
+This project is a database that holds historical files, testimonials, and images dated back to the mid 1950's. The Archive allows the public to search, learn, and explore a collection of over 40,000 data points of "Rightist" victims and history from the 1957-1959 "Rightist" Movement in China.
 
 
 
@@ -137,3 +137,16 @@ This project is a database that holds historical files, testimonials, and images
 </div>
 <div class="caption h5">Presentation Slides</div>
 
+  <div class="">
+    <span class="">
+      <a href="https://github.com/JOOOEG123/stip-demo.git" >
+        <i class="fab fa-github"></i> 
+        <span class="">github</span>
+      </a>
+      |
+      <a href="https://github.com/gmu-cil/summer-team-impact-2022.git">
+        <i class="fa-solid fa-database"></i> 
+        <span class="">data</span>
+      </a> 
+    </span>
+  </div>

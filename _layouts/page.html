@@ -15,7 +15,23 @@ layout: default
 
           {%- if page.related_publications != null and page.related_publications.size > 0 -%}
           {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
+
+          <div></div>
           <h2>References</h2>
+          Team Supervisors:
+        
+          <div >
+            <span >
+              <i class="fa-solid fa-user-group"></i>
+              <a href="https://myeonglee.com/" >
+                <span >Dr. Myeong Lee </span>
+              </a>
+              ,
+              <a href="https://art.gmu.edu/faculty-staff/shanshan-cui/">
+                <span>Dr. Shanshan Cui</span>
+              </a> 
+            </span>
+          </div>
           <div class="publications">
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
           </div>
