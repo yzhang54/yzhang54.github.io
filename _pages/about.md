@@ -6,7 +6,7 @@ permalink: /
 subtitleOne: > 
   <p>Contact: yulez995@gmail.com</p>
 subtitleTwo: >
-  <p>Location: Virginia, USA</p>
+  <p>Location: California, USA</p>
 profile:
   align: right
   image: profile.jpg
