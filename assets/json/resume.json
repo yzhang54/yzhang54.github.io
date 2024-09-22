@@ -63,7 +63,13 @@
       // "summary": "The Nofred Nobel's will ofed the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [],
-  "skills": [],
-  "interests": []
+  "certificates": ["Oracle Certified Associate, Java SE 8 Programmer. Awarded by Oracle", "Java Foundation Certified Junior Associate. Awarded by Oracle."],
+  "skills": [
+    {"Proficient":"Python, Java"},
+    {"Intermediate":"JavaScript(Node.JS and React), Angular, C, HTML5, CSS, JSON"}, 
+    {"Exposure":"Assembly, Common Lisp, R, MATLAB, LaTeX, C++, Go"}, 
+    {"Databases":"MySQL, MongoDB, and Oracle Database"}, 
+    {"Technologies":"PowerShell, Linux, Maven, Git, Azure, AWS Cloud, GCP, VIM, Eclipse, VSCode, Docker, Maven"}
+  ],
+  "Volunteering": []
 }
