@@ -4,9 +4,9 @@ title: About
 permalink: /
 
 subtitleOne: > 
-  <p>Contact: yulez995@gmail.com</p>
+  <p>Contact: yuz300@ucsd.edu</p>
 subtitleTwo: >
-  <p>Location: California, USA</p>
+  <p>Location: San Diego, California, USA</p>
 profile:
   align: right
   image: profile.jpg
@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-About: I completed my undergrad at George Mason University in Fall 2022. As I approached graduation, I made the decision to pursue advanced studies in machine learning, computer vision, and human-computer interaction for Master's degree. While preparing for grad school applications, I am also working as a Software Engineering Intern at UPS, contributing to backend development. I am also collaborating with Dr. Wing Lam from GMU and Dr. August Shi from The University of Texas at Austin for research.
+About: I'm currently studying computer science at UC San Diego for my M.S. I am actively seeking a software development internship for summer 2025. Passionate about software development and proficient in multiple modern programming languages. Ability to communicate effectively both verbally and in writing. Proven leadership skills, having led numerous class projects.
 
 
 <!-- Testingggg Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `profile.jpg` and put it in the `img/` folder.
